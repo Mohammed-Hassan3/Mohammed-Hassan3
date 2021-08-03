@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohammed-Hassan3
 - 👀 I’m interested in Bioinformatics and Data science
-- 🌱 I’m currently learning Python, R 
+- 🌱 Python, R 
 
 
 <!---
